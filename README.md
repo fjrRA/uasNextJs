@@ -1,5 +1,5 @@
-﻿# restoDicodingCompleted
-Repository ini berisi proyek submission kedua Dicoding pada kelas Menjadi Front-End Web Developer Expert.
+﻿# UASNextJS
+Repository UAS NEXT JS.
 
 Catatan: <br />
 - Menggunakan SASS <br />
