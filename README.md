@@ -1,5 +1,6 @@
 ﻿# UASNextJS
 Repository UAS NEXT JS.
+Source: [Lama Dev: Restaurant Food Delivery App Design - React Next.js & Tailwind](https://youtu.be/aYzT06aQkGI?si=dPeTJt_qc5dlnYDC) | [Lama Dev: Full Stack Restaurant Food Ordering App Tutorial](https://youtu.be/gXlcwtS40LA?si=k1snkenZdjW2DmWG)
 
 Cara buka: <br />
 - Install NEXT JS-nya dulu. <br />
